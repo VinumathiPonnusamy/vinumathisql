@@ -8,6 +8,18 @@ public class Git1 {
 		System.out.println("3");
 
 	}
+	private void new1() {
+		System.out.println("4");
+
+	}
+	private void new2() {
+		System.out.println("5");
+
+	}
+	private void new3() {
+		System.out.println("8");
+
+	}
 	
 
 }
